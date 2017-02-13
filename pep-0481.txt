@@ -228,7 +228,7 @@ C the same as CPython itself is. It can also have commands written for it using
 any language, including Python. Phabricator is written in PHP which is a fairly
 common language in the web world and fairly easy to pick up. GitHub itself is
 largely written in Ruby but given that it's not Open Source there is no ability
-to modify it so it's implementation language is completely meaningless.
+to modify it so its implementation language is completely meaningless.
 
 
 GitHub is not Free/Open Source
